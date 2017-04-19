@@ -1,4 +1,7 @@
-# test coverage for  [nodepdf (v1.3.2)](https://github.com/TJkrusinski/NodePDF)  [![npm package](https://img.shields.io/npm/v/npmtest-nodepdf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodepdf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodepdf.svg)](https://travis-ci.org/npmtest/node-npmtest-nodepdf)
+# npmtest-nodepdf
+
+#### test coverage for  [nodepdf (v1.3.2)](https://github.com/TJkrusinski/NodePDF)  [![npm package](https://img.shields.io/npm/v/npmtest-nodepdf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodepdf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodepdf.svg)](https://travis-ci.org/npmtest/node-npmtest-nodepdf)
+
 #### Down and dirty PDF rendering in Node.js
 
 [![NPM](https://nodei.co/npm/nodepdf.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nodepdf)
