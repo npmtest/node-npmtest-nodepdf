@@ -1,6 +1,6 @@
 # npmtest-nodepdf
 
-#### test coverage for  [nodepdf (v1.3.2)](https://github.com/TJkrusinski/NodePDF)  [![npm package](https://img.shields.io/npm/v/npmtest-nodepdf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodepdf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodepdf.svg)](https://travis-ci.org/npmtest/node-npmtest-nodepdf)
+#### basic test coverage for  [nodepdf (v1.3.2)](https://github.com/TJkrusinski/NodePDF)  [![npm package](https://img.shields.io/npm/v/npmtest-nodepdf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodepdf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodepdf.svg)](https://travis-ci.org/npmtest/node-npmtest-nodepdf)
 
 #### Down and dirty PDF rendering in Node.js
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-nodepdf/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-nodepdf/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-nodepdf/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-nodepdf/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nodepdf/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nodepdf/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-nodepdf/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-nodepdf/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nodepdf/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nodepdf/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-nodepdf/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-nodepdf/build/coverage.html/index.html)
 
@@ -84,7 +84,8 @@
     "scripts": {
         "test": "mocha tests"
     },
-    "version": "1.3.2"
+    "version": "1.3.2",
+    "bin": {}
 }
 ```
 
